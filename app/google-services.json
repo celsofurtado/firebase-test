@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373335449490",
+    "firebase_url": "https://fireapp-65320-default-rtdb.firebaseio.com",
+    "project_id": "fireapp-65320",
+    "storage_bucket": "fireapp-65320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373335449490:android:79c05587ed0ec0f3ad2b4b",
+        "android_client_info": {
+          "package_name": "br.pro.celsofurtado.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373335449490-47poql63vuoakrvd38sevprv8mi32pn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPqCeqM6UfDTuuKCV7r2VCadoJD36sMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373335449490-47poql63vuoakrvd38sevprv8mi32pn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
